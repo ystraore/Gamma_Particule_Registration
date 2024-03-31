@@ -1,10 +1,4 @@
-Using the provided details and following the format used earlier, here's a comprehensive README file for your GitHub repository titled "GAMMA PARTICLE REGISTRATION".
-
----
-
 # Gamma Particle Registration
-
-### March 2024 - Present
 
 **Table of Contents**
 1. [Introduction](#introduction)
