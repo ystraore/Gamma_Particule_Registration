@@ -16,8 +16,7 @@ Using the provided details and following the format used earlier, here's a compr
 7. [Tech Stack](#tech-stack)
 8. [How to Use](#how-to-use)
 9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
-11. [References](#references)
+   
 
 ## Introduction
 This personal machine learning project focuses on the classification of high-energy gamma particles using data generated to simulate the registration of these particles in a ground-based atmospheric Cherenkov gamma telescope. The project leverages advanced data processing and machine learning techniques to distinguish between gamma ray-initiated showers and background cosmic ray-initiated showers.
@@ -53,19 +52,3 @@ The project's tech stack is designed to support intensive data analysis and mach
 - **Data Processing:** NumPy and Pandas
 - **Visualization:** Matplotlib and Seaborn
 - **Development Environment:** Jupyter Notebooks or any Python IDE
-
-## How to Use
-(Provide instructions on how to set up the project, install dependencies, run the model, including commands and necessary steps for users to follow.)
-
-## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-Gratitude to the developers of Corsika for providing a comprehensive tool for simulating atmospheric particle showers, which formed the basis of the dataset used in this project.
-
-## References
-- D. Heck et al., "CORSIKA, A Monte Carlo code to simulate extensive air showers," Forschungszentrum Karlsruhe FZKA 6019 (1998). [Link to Paper](http://rexa.info/paper?id=ac6e674e9af20979b23d3ed4521f1570765e8d68)
-
----
-
-Be sure to tailor the "How to Use" section to match the specifics of your project setup and execution. This README provides a structured overview of your project, its background, methodology, and results, making it easier for others to understand and contribute to your work.
